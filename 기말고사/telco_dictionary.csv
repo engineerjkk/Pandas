@@ -1,0 +1,12 @@
+columns,explain
+Leave,가입해지여부(1이면 해지)
+MemberWeeks,가입기간
+NewContract,가입갱신여부(1이면 갱신)
+IsData,데이터요금제사용여부(1이면 사용)
+DataAmount,데이터사용량(GB)
+Callcenter,고객센터전화량
+CalMins,월평균전화량(분)
+CalCounts,월평균전화수(횟수)
+MonthlyFee,월평균요금
+OverFee,초과요금
+RoamingMin,로밍시간(분)
